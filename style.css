@@ -1,0 +1,120 @@
+.navbar-nav .dropdown{
+    background: transparent;
+}
+.carousel-item{
+    background-size: cover;
+    z-index: 2;
+}
+.top-header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    margin: 0 auto;
+    z-index: 20;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-size: auto 100%;
+}
+.navbar-brand{
+    color: #f2184f;
+}
+.top-header .navbar {
+	padding: 5px 0px;
+}
+.top-header .navbar .navbar-collapse ul li a {
+	text-transform: uppercase;
+	font-size: 15px;
+	padding: 7px 20px;
+	position: relative;
+	font-weight: 400;
+	overflow: hidden;
+	color: #f2184f;
+}
+.top-header .navbar .navbar-collapse ul li a:hover,
+.top-header .navbar .navbar-collapse ul li a:focus {
+	background: transparent;
+	color: lightsalmon;
+}
+.top-header .navbar .navbar-collapse ul li {
+	margin: 0 2px;
+}
+.theme_color {
+	color: #f2184f;
+}
+p.section_count {
+    font-size: 155px;
+    margin: 100px 45px 0 0;
+    color: #cccac5;
+    font-weight: 400;
+    line-height: 70px;
+}
+p.small_tag {
+    color: #000;
+    font-size: 18px;
+    text-transform: uppercase;
+    line-height: normal;
+    font-weight: 600;
+    margin: 0;
+}
+p.large {
+    font-size: 20px;
+    color: #605f5f;
+    position: relative;
+    padding: 0;
+    font-weight: 500;
+    margin: 0;
+}
+.right{
+    margin-left: 200px;
+    margin-top: -70px;
+}
+.dark_bg {
+	background: #000;
+}
+h3.small_heading {
+	font-size: 35px;
+	font-weight: 600;
+	line-height: normal;
+}
+.layout_padding {
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+.padding_left_right {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.white_fonts p, 
+.white_fonts h3{
+    color: #fff !important;
+}
+.slide_text h3 {
+    font-size: 50px;
+    font-weight: 700;
+    padding: 0;
+    line-height: 45px !important;
+    text-transform: uppercase;
+    color: black;
+}
+
+.slide_text h4 {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+.slide_text {
+    margin-top: -220px;
+    padding-left: 80px;
+}
+.full {
+	float: left;
+	width: 100%;
+}
+.full>img {
+    height: 400px;
+    margin-top: 50px;
+}
